@@ -1,1 +1,1 @@
-worker: node Reda.js
+worker: node Redo.js
