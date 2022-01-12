@@ -58,4 +58,4 @@ client.user.setGame(`PARTNER Redo`)
 
 
 client.login("");// Token Dane 
-*/coded By Redo
+////coded By Redo
