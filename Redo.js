@@ -51,10 +51,11 @@ ${message.content}`)
 client.on('ready', () => {
 console.log(`ON ${client.guilds.size} Servers`);
 console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`PARTNER Reda`) 
+client.user.setGame(`PARTNER Redo`) 
 });
 
 
 
 
 client.login("");// Token Dane 
+/*coded By Redo/*
